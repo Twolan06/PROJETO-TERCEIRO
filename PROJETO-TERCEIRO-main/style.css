@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background:black;
+    }
+    header{
+        border: solid 2px red;
+      
+        font-size: 30px;
+
+        color: red;
+    
+    }
+
+    section {
+
+     background: rgb(170, 170, 170, 0.788);
+     padding-bottom: 80px;
+     padding-top: 80px;
+     display:flex;
+     justify-content: center;
+
+         }
+
+
+       .chamando-texto {
+            margin-right: 5%;
+         }
